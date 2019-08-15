@@ -8,6 +8,7 @@ https://www.sunduino.pl/sunevb-stm32/
 Dla której powstały moduły:
 
 SUN-051R   -- z mikrokontrolerem STM32F051R    ---> https://www.sunduino.pl/modul-mikrokontrolera-sun-051r/
+
 SUN-1xxR   -- z mikrokontrolerem STM32F103R    ---> https://www.sunduino.pl/modul-mikrokontrolera-sun-1xxr/
 
 
